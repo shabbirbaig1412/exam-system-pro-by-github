@@ -1,0 +1,29 @@
+.esp-invalid{
+
+background:#ffe5e5 !important;
+
+border:2px solid #d63638 !important;
+
+}
+
+.esp-mark:focus{
+
+z-index:10;
+
+position:relative;
+
+}
+
+.esp-table-wrapper{
+
+overflow:auto;
+
+}
+
+.esp-total{
+
+background:#f6f7f7;
+
+font-weight:700;
+
+}
